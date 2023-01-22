@@ -1,0 +1,13 @@
+body {
+  background-image: url('img/pexels-craig-adderley-1563356.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#transparent {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
